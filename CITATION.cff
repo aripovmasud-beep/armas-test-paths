@@ -11,4 +11,5 @@ authors:
   - family-names: Jurayev
     given-names: Muzaffarjon
 license: MIT
-# doi: "10.5281/zenodo.XXXXXXX"   # fill in after the first Zenodo release
+doi: "10.5281/zenodo.24400668"
+repository-code: "https://github.com/aripovmasud-beep/armas-test-paths"
