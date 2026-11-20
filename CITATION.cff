@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper."
+title: "ARMAS and ARMAS-MF: fast exact test-path generation for branch coverage"
+authors:
+  - family-names: Aripov
+    given-names: Masud
+  - family-names: Pulatov
+    given-names: Sharifjon
+  - family-names: Butayev
+    given-names: Tukhtasin
+  - family-names: Jurayev
+    given-names: Muzaffarjon
+license: MIT
+# doi: "10.5281/zenodo.XXXXXXX"   # fill in after the first Zenodo release
