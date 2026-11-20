@@ -1,0 +1,3 @@
+numpy>=2.0
+scipy>=1.13          # LP ground truth (HiGHS)
+matplotlib>=3.8      # figures only
